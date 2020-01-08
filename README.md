@@ -1,5 +1,5 @@
 # Machine-Learning
-This project aims at predicting the loan rate any application would get given certain variables. The metadata and the holdout set is provided. 
+This project aims at predicting the loan rate any loan application would get given certain variables. The metadata and the holdout set is provided. 
 
 Step 1:
 Cleaning and Data Preparation: There are several entries where values have been deleted to simulate dirty data. 
