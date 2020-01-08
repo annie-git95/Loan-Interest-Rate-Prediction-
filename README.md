@@ -1,4 +1,4 @@
-# Machine-Learning
+# Loan Interest Rate Prediction
 This project aims at predicting the loan rate any loan application would get given certain variables. The metadata and the holdout set is provided. 
 
 Step 1:
