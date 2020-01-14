@@ -12,3 +12,5 @@ followed by a second part that loads and applies the model.
 
 Step 3:
 Testing: Model were tested using data found within the "Holdout" file. 
+
+For this exercise, I used 3 Regression models: Decision Trees, Ridge CV and XGBoost. The data was grouped into categories where required, and fit transformed using label encoder.The first technique used was Ridge CV, which has inbuilt cross validation based on ridge regression. Its results were also comparable to decision trees. Out of the three XGBoost was the most powerful technique which has gradiant boosted decision trees - it is used widely to improve accuracy of structured data. It tests the data on several iterations, accounts for multicollinearity, performs cross validation and suggests the most accurate model.
